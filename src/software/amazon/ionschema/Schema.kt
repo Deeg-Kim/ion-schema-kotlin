@@ -10,8 +10,4 @@ interface Schema {
     fun getTypes(): Iterator<Type>
 
     fun getSchemaSystem(): IonSchemaSystem
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> test-travis-ci
